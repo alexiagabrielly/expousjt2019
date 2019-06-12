@@ -1,0 +1,20 @@
+header {
+    height: 100vh;
+    background-image: url("./img/expousjt-bg-topo.png");
+    background-color: #f4f5fa;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+h6, p {
+    color: #888;
+}
+.header-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.about{
+    background-image: url("./img/bg-scholarships.jpg");
+    min-height: 400px;
+}
