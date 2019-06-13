@@ -36,7 +36,12 @@ h3, h2 {
 }
 
 .backPartners{
-    background-color: bisque;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3f4281), to(#592e6a)) fixed;
+}
+
+.fitImage{
+    height: 60vh;
+    object-fit: cover;
 }
 
 .footerUsjt{
