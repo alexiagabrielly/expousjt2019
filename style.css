@@ -9,14 +9,23 @@ header {
 h6, p {
     color: #888;
 }
+h3, h2 {
+    color: #353C86;
+}
 .header-wrapper {
     height: 100%;
     display: flex;
     align-items: center;
 }
-.about{
+.about {
     background-image: url("./img/bg-scholarships.jpg");
     min-height: 400px;
+    display: flex;
+    align-items: center;
+}
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
 }
 
 @media only screen and (max-width: 600px) {
