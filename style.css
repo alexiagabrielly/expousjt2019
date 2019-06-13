@@ -19,7 +19,6 @@ h6, p {
     min-height: 400px;
 }
 
-<<<<<<< HEAD
 .backPartners{
     background-color: bisque;
 }
@@ -40,7 +39,6 @@ h6, p {
 .fontFooter{
     color: white;
     font-weight: 300;
-=======
 @media only screen and (max-width: 600px) {
     header {
         background-size: 180%;
@@ -49,5 +47,4 @@ h6, p {
         height: 80%;
         align-items: flex-end;
     }
->>>>>>> 567d297c4809b8e324f7afb8f0e189017c36fb45
 }
