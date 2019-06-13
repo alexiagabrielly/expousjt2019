@@ -28,6 +28,10 @@ h3, h2 {
     margin: 0 auto;
 }
 
+.eventos-wrapper {
+    background-color: #fff;
+}
+
 .backPartners{
     background-color: bisque;
 }
@@ -48,6 +52,7 @@ h3, h2 {
 .fontFooter{
     color: white;
     font-weight: 300;
+}
 @media only screen and (max-width: 600px) {
     header {
         background-size: 180%;
