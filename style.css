@@ -18,3 +18,25 @@ h6, p {
     background-image: url("./img/bg-scholarships.jpg");
     min-height: 400px;
 }
+
+.backPartners{
+    background-color: bisque;
+}
+
+.footerUsjt{
+    background-color: #A7BD00;
+    color: white;
+    font-weight: bold;
+}
+
+.styleIcons{
+    font-size: 20px;
+    color: #353C86;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.fontFooter{
+    color: white;
+    font-weight: 300;
+}
