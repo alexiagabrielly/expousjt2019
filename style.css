@@ -28,6 +28,9 @@ h3, h2 {
     margin: 0 auto;
 }
 
+.post:hover {
+    border-top: 5px solid #ff356f;
+}
 .eventos-wrapper {
     background-color: #fff;
 }
