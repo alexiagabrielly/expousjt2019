@@ -36,11 +36,17 @@ h3, h2 {
 }
 
 .backPartners{
-    background: -webkit-gradient(linear, left top, left bottom, from(#3f4281), to(#592e6a)) fixed;
+    background: -webkit-gradient(linear, left top, left bottom, from(#353c86), to(#595f9c));
 }
 
 .fitImage{
-    height: 60vh;
+    height: 70vh;
+    width: 70vw;
+    object-fit: cover;
+}
+
+.fitImageTeatro{
+    width: 100%;
     object-fit: cover;
 }
 
@@ -59,7 +65,8 @@ h3, h2 {
 
 .fontFooter{
     color: white;
-    font-weight: 300;
+    font-weight: 100;
+    font-size: 13px;
 }
 @media only screen and (max-width: 600px) {
     header {
