@@ -4,7 +4,13 @@ A project of a Single Page Application (SPA) developed by a team of Computer Sci
 
 
 ## Developers:
+
 * Alexia Gabrielly
 * Davi Fonseca
 * Maicon Araujo
 * Marcos Gotado
+
+
+## Website:
+
+(http://www.cienciatecnologiaearte.com.br/exposaojudaspaulista/)
