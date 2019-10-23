@@ -7,7 +7,7 @@ A project of a Single Page Application (SPA) developed by a team of Computer Sci
 
 * Alexia Gabrielly
 * Davi Fonseca
-* Maicon Araujo
+* Maicon Souza
 * Marcos Gotado
 
 
